@@ -33,7 +33,7 @@ FPGA implementation of the classic Tetris game written in Verilog.
 - `vga.v` - Main game implementation
 - `ucf.ucf` - FPGA pin constraints
 
-## Screenshots
+## Gameplay
 
 Add screenshots here.
 
