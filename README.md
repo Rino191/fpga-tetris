@@ -35,7 +35,7 @@ FPGA implementation of the classic Tetris game written in Verilog.
 
 ## Gameplay
 
-Add screenshots here.
+[Gameplay](brisanje_redova.html)
 
 ## Author
 
